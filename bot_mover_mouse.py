@@ -7,5 +7,7 @@ while True:
     y = random.randint(200,600)
     pag.moveTo(x,y,0.5)
     time.sleep(2)
+    
+# para adicionar a biblioteca do pyautogui cole o seguinte comando em seu cmd ( py -m pip install pyautogui )
 
 
